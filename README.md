@@ -57,7 +57,7 @@ A clock built for exercise in my first approach to JavaScript.
 <br />
 
 ## Usage
-Just the basic function of track the present time. <br />
+Just the basic function of tracking the present time. <br />
 
 <br />
 <br />
