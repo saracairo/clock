@@ -9,14 +9,19 @@
 }
 
 body {
-  background-image: url(img/bck-grid_sadgirlonline.gif);
+  background-image: url(assets/img/bck-grid_sadgirlonline.gif);
   background-color: rgba(0, 0, 0, 0.8);
   background-blend-mode: multiply;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   overflow: hidden;
+}
+
+a {
+  text-decoration: none;
 }
 
 .clock {
@@ -30,7 +35,7 @@ body {
 .clock:before {
   position: absolute;
   content: "";
-  background-image: url(img/istockphoto-1424568888-170667a.jpg);
+  background-image: url(assets/img/istockphoto-1424568888-170667a.jpg);
   background-size: 470px;
   background-position: 55% 54%;
   opacity: 10%;
@@ -113,4 +118,17 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 30%;
+}
+
+p {
+  font-size: 11px;
+  color: rgb(120, 120, 120);
+  margin-top: 50px;
+  letter-spacing: .1rem;
+}
+p > a {
+  color: rgb(255, 101, 237);
+}
+p > a:hover {
+  color: rgb(47, 255, 123);
 }
