@@ -20,7 +20,7 @@
   [![Issues][issues-shield]][issues-url]
   [![License][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url] <br />
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/31f74770-10f4-4e28-b747-c609e086a034/deploy-status)](https://app.netlify.com/sites/retr0counter/deploys)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/656fb237-0fe1-4432-99d3-49dd7f954f45/deploy-status)](https://app.netlify.com/sites/cl0ck-sc/deploys)
 
 </div>
 
@@ -41,7 +41,7 @@
 <br />
 
 ## About the Project
-<img src="assets/img/clock-preview.png" alt="screenshot">
+<img src="assets/img/screenshots/clock-screenshot.png" alt="screenshot">
 
 A clock built for exercise in my first approach to JavaScript.
 
